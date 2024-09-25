@@ -1,2 +1,2 @@
 # Pinky
-a sample quote generator app
+a sample code generator app
